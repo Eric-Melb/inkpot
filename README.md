@@ -1,3 +1,2 @@
-# inkpot
-precious fluid
+# inkpot - a scratch space
 just gitting around
